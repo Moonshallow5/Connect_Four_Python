@@ -165,6 +165,9 @@ def play_again():
         game()
 
 
+ss = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+
 def win():
     count = 0
     i = 0
